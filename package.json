@@ -15,7 +15,7 @@
   "homepage": "https://github.com/izifortune/angular-fluidbox",
   "dependencies": {
     "fluidbox": "^2.0.0",
-    "angulars": ">=1.2.0 <2"
+    "angular": ">=1.2.0 <2"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
